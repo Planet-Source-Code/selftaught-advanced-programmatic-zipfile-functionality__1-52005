@@ -1,0 +1,3 @@
+VBGROUP 5.0
+StartupProject=AsyncZipper\Test Project\vbZipper.vbp
+Project=Messagebox\MessageBoxEx.vbp
